@@ -29,4 +29,4 @@ The workflow was tested for events occurred from 2023-1-7 to 2024-30-6 worldwide
 
 The respective generated catalogs, map figures, and seismograms are available in the 'Example' folder.
 
-
+The results depend strongly on the polarisation pattern of the focal mechanisms and they are more accurate for one or another earthquake type depending the component that is used (among Z, N, E for backazimuths of 0, 45, and 90) and the frequency range of the filtering. Further evaluation is necessary for an analysis of the performance, depending these parameters.
