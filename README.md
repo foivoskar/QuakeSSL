@@ -24,3 +24,7 @@ The final step, where the user defines the percentage of available identified ev
 ----------------------------------
 
 ## Results
+
+The workflow was tested for events occurred from 2023-1-7 to 2024-30-6 worldwide, with magnitudes from 6 to 7. Two different datasets where obtained for thresholds of 20 and 45 (in Step 2). The waveforms were taken for the iasp91_2s model in epicentral distances of 5, 10, and 15 degrees and backazimuths of 0, 45, and 90 degrees.
+
+
