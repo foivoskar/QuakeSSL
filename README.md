@@ -29,6 +29,6 @@ The final step, where the user defines the percentage of available identified ev
 
 The workflow was tested for events occurred from 2023-1-7 to 2024-30-6 worldwide, with magnitudes from 6 to 7. Two different datasets where obtained for thresholds of 20 and 45 (in Step 2). The waveforms were taken for the iasp91_2s model in epicentral distances of 5, 10, and 15 degrees and backazimuths of 0, 45, and 90 degrees.
 
-The respective generated catalogs, map figures, and seismograms are available in the 'Example' folder.
+The respective generated catalogs, map figures, and seismograms are available in the directory: <a href>https://www.dropbox.com/scl/fo/bs5cx8jwss07eooz1u0cl/AJjOaEbZwBY_aG0AT4tHcaA?rlkey=am9ab5m22tks7sb9g26gjdvo8&dl=0><Dropbox link>.
 
 The results depend strongly on the polarisation pattern of the focal mechanisms and they are more accurate for one or another earthquake type depending the component that is used (among Z, N, E for backazimuths of 0, 45, and 90) and the frequency range of the filtering. Further evaluation is necessary for an analysis of the performance, depending these parameters.
