@@ -1,6 +1,8 @@
 # QuakeSSL
 An experimental workflow for classifying the type of earthquakes using Self-Supervised Learning
 
+<a href="https://doi.org/10.5281/zenodo.14015592"><img src="https://zenodo.org/badge/881168551.svg" alt="DOI"></a>
+
 ---------------------------------
 
 This is an experimental project for the use of seismic data and an SSL workflow. The scope is to make an algorithm where the user feeds with waveforms of pre-identified earthquake types (strike-slip, normal, and reverse) and then the algorithm attemts to classify and accordingly label other events by their waveforms. The workflow is developed in 4 steps.
